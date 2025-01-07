@@ -1,4 +1,6 @@
 > I implemented this for an interview
+> This was made based on this repo: `git clone git@github.com:tonycheang/todo-backend-express-knex.git`
+
 
 # todo-backend-express-knex
 
